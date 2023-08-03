@@ -4,21 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2762ece2-b0db-46fe-a764-6e48fd5013b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATLGastonRanz.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clase8/AreaCuadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clase8/AreaTriangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clase8/GeneradorClaves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class10/Cuenta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class10/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class9/Personas.java" afterDir="false" />
+    <list default="true" id="2762ece2-b0db-46fe-a764-6e48fd5013b0" name="Changes" comment="New Proyect Class 10">
+      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ATLGastonRanz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12/AmigoInvisible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12/CalculadoraDeCambio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12/EjercicioEvaluacionJueves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12/GuessTheAnswer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12/InteresCompuesto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12/Spotify/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12/Spotify/Playlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12/Spotify/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12/Students/Evaluación.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12/Students/MainStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12/Students/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12/Students/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12/Students/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class13/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class13/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class13/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class13/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class13/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/BetaFish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Flying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Passer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Swimmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class9/AutoCompletado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicioFiguraGeometrica/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicioFiguraGeometrica/FiguraGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicioFiguraGeometrica/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicioFiguraGeometrica/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicioFiguraGeometrica/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/musician/GuitarPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/musician/Musician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/musician/Pianist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class9/Personas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class9/Personas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +59,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,7 +79,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gaston/Downloads/ATLbootcamp&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gaston/IdeaProjects/ATLGastonRanz&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,6 +92,22 @@
       <option name="presentableId" value="Default" />
       <updated>1686828052687</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Proyect Class 10">
+      <created>1687271573990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687271573990</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Proyect Class 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Proyect Class 10" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
